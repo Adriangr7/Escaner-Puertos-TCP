@@ -1,0 +1,14 @@
+# Archivos de Python que no se deben subir
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# Configuraciones de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
